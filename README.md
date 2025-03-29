@@ -7,7 +7,10 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Web_Server-D22128?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/WildFly-0696D7?style=for-the-badge&logo=wildfly&logoColor=white" />
 </p>
+
 
 ### 🛠 Detail
 - **Docker** - Containerization 
