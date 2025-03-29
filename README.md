@@ -3,26 +3,23 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Web_Server-D22128?style=for-the-badge&logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/WildFly-0696D7?style=for-the-badge&logo=wildfly&logoColor=white" />
+
 </p>
 
 
-### 🛠 Detail
+### 🛠 Practice Detail
 - **Docker** - Containerization 
 - **Kubernetes** - Operation, Helm Chart
-- **Cloud** - AWS Cloud, Naver Cloud, NHN Cloud
 - **Jenkins** - VM & kubernetes CI/CD Automation
-- **Django** - Web Framework (Python)  
-- **Redis** - Installation, Cluster Management, Performance Tuning
-- **Kafka** - Distributed Messaging, Broker Management, Monitoring
+- **Cloud** - AWS Cloud, Naver Cloud, NHN Cloud
+- **Open Source Installation & Management** - SVN, gitlab, Nexus
+- **WEB/WAS Operation** - Apache Web Server, Wildfly
+- **Redis & Kafka** - Installation, Performance Tuning, Monitoring
 
 ## 🚀 Projects
-🔹 [**Kubernetes**](https://github.com/MeteorNote/Kubernetes) - A cloud-native application deployed on Kubernetes  
+🔹 [**Kubernetes**](https://github.com/MeteorNote/Kubernetes) - A Cloud-Native Application deployed on Kubernetes  
 🔹 [**Django**](https://github.com/MeteorNote/Django_Practice) - Mini Project
 
 ## 🏆 Certifications
