@@ -32,12 +32,9 @@
 ## 📖 Blog 
 <p align="left">
   <a href="https://meteornote.github.io/">
-    <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub%20Blog-222222?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
-## 📊 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeteorNote&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Contact Me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rbfpffldk56@gmail.com)
